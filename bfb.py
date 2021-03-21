@@ -1,4 +1,4 @@
-#!/data/data/com.termux/files/usr/bin/python
+#!/usr/bin/python3
 #Copyright Bail 2021
 #com.Bail.filebreaker 文件碎片化 v1.0_1
 #2021.2.6
